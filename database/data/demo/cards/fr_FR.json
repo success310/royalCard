@@ -1,0 +1,102 @@
+[
+    {
+        "head": "Notre Marque",
+        "title": "Récompenses de fidélité",
+        "description": "Commencez à accumuler des points dès aujourd'hui avec nous !"
+    },
+    {
+        "head": "Récompenses Estivales",
+        "title": "Économies Saisonnieres",
+        "description": "Profitez de notre promotion estivale !"
+    },
+    {
+        "head": "Carte d'Économies",
+        "title": "Gagnez en dépensant",
+        "description": "Accumulez des points à chaque repas avec nous !"
+    },
+    {
+        "head": "Club Gourmand",
+        "title": "Dînez et Économisez",
+        "description": "Dégustez nos délices et profitez de récompenses excitantes !"
+    },
+    {
+        "head": "Carte des Gourmets",
+        "title": "Saveurs et Récompenses",
+        "description": "Récompensez votre amour pour la bonne nourriture !"
+    },
+    {
+        "head": "Carte de Fidélité",
+        "title": "Économisez dès maintenant",
+        "description": "Rejoignez notre programme de fidélité et économisez sur chaque achat !"
+    },
+    {
+        "head": "Spécialités du Dîner",
+        "title": "Obtenez des Récompenses",
+        "description": "Rendez vos soirées spéciales avec notre programme de récompenses !"
+    },
+    {
+        "head": "Weekend de Fête",
+        "title": "Récompenses du Weekend",
+        "description": "Profitez de vos weekends avec nous et soyez récompensé(e) !"
+    },
+    {
+        "head": "Offres Festives",
+        "title": "Économies pour les Fêtes",
+        "description": "Célébrez la saison festive avec des récompenses exclusives !"
+    },
+    {
+        "head": "Heures Joyeuses",
+        "title": "Récompenses Horaires",
+        "description": "Rejoignez-nous pendant les heures joyeuses et gagnez des points doublés !"
+    },
+    {
+        "head": "Amoureux du Café",
+        "title": "Points Espresso",
+        "description": "Gagnez des points à chaque café !"
+    },
+    {
+        "head": "Palais de la Pizza",
+        "title": "Économies sur Chaque Part",
+        "description": "Économies sur chaque part de pizza !"
+    },
+    {
+        "head": "Repas Sains",
+        "title": "Économies sur les Salades",
+        "description": "Soignez vos choix et soyez récompensé(e) !"
+    },
+    {
+        "head": "Festival du Burger",
+        "title": "Points Burger",
+        "description": "Empilez les points avec vos burgers !"
+    },
+    {
+        "head": "Spécialités de la Mer",
+        "title": "Récompenses Poissonnières",
+        "description": "Des récompenses fraîches à chaque prise !"
+    },
+    {
+        "head": "Délices Dessert",
+        "title": "Économies Sucrées",
+        "description": "Régalez-vous avec des récompenses !"
+    },
+    {
+        "head": "Cuisine Asiatique",
+        "title": "Points Sushi",
+        "description": "Enroulez-vous de récompenses !"
+    },
+    {
+        "head": "Fiesta Mexicaine",
+        "title": "Jetons Taco",
+        "description": "Des tacos qui vous rapportent !"
+    },
+    {
+        "head": "Club du Petit Déjeuner",
+        "title": "Récompenses Matinales",
+        "description": "Des récompenses pour les lève-tôt !"
+    },
+    {
+        "head": "Spécialités du Déjeuner",
+        "title": "Fidélité au Déjeuner",
+        "description": "Économisez à l'heure du déjeuner !"
+    }
+]

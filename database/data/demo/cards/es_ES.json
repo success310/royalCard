@@ -1,0 +1,102 @@
+[
+    {
+        "head": "Nuestra Marca",
+        "title": "Lealtad Recompensada",
+        "description": "¡Comienza a recolectar puntos con nosotros hoy!"
+    },
+    {
+        "head": "Recompensas de Verano",
+        "title": "Ahorros Estacionales",
+        "description": "¡Aprovecha nuestra promoción de verano!"
+    },
+    {
+        "head": "Tarjeta de Ahorros",
+        "title": "Gana Mientras Gastas",
+        "description": "¡Acumula puntos cada vez que cenas con nosotros!"
+    },
+    {
+        "head": "Club Gourmet",
+        "title": "Cena y Ahorra",
+        "description": "¡Saborea nuestras delicias y disfruta de emocionantes recompensas!"
+    },
+    {
+        "head": "Tarjeta Foodie",
+        "title": "Prueba y Gana",
+        "description": "¡Recompensando tu amor por la buena comida!"
+    },
+    {
+        "head": "Tarjeta de Lealtad",
+        "title": "Ahorra Ahora",
+        "description": "¡Únete a nuestro programa de lealtad y ahorra en cada compra!"
+    },
+    {
+        "head": "Especiales de Cena",
+        "title": "Obtén Recompensas",
+        "description": "¡Haz que tus noches sean especiales con nuestro programa de recompensas!"
+    },
+    {
+        "head": "Bonanza de Fin de Semana",
+        "title": "Recompensas de Fin de Semana",
+        "description": "¡Disfruta tus fines de semana con nosotros y obtén recompensas!"
+    },
+    {
+        "head": "Ofertas Festivas",
+        "title": "Ahorros de Vacaciones",
+        "description": "¡Celebra la temporada festiva con recompensas exclusivas!"
+    },
+    {
+        "head": "Happy Hours",
+        "title": "Recompensas por Hora",
+        "description": "¡Únete a nosotros durante las happy hours y gana el doble de puntos!"
+    },
+    {
+        "head": "Amantes del Café",
+        "title": "Puntos Espresso",
+        "description": "¡Gana puntos con cada café!"
+    },
+    {
+        "head": "Palacio de la Pizza",
+        "title": "Ahorros en cada Porción",
+        "description": "¡Ahorros en cada porción!"
+    },
+    {
+        "head": "Comida Saludable",
+        "title": "Ahorros en Ensaladas",
+        "description": "¡Obtén recompensas por elecciones saludables!"
+    },
+    {
+        "head": "Bonanza de Hamburguesas",
+        "title": "Puntos por Hamburguesas",
+        "description": "¡Acumula puntos con tus hamburguesas!"
+    },
+    {
+        "head": "Especial de Mariscos",
+        "title": "Recompensas de Pescado",
+        "description": "¡Recompensas frescas con cada captura!"
+    },
+    {
+        "head": "Delicias de Postre",
+        "title": "Ahorros Dulces",
+        "description": "¡Endulza el trato con recompensas!"
+    },
+    {
+        "head": "Cocina Asiática",
+        "title": "Puntos de Sushi",
+        "description": "¡Enróllate en las recompensas!"
+    },
+    {
+        "head": "Fiesta Mexicana",
+        "title": "Tokens de Taco",
+        "description": "¡Tacos que recompensan!"
+    },
+    {
+        "head": "Club de Desayuno",
+        "title": "Recompensas Matutinas",
+        "description": "¡Recompensas para los madrugadores!"
+    },
+    {
+        "head": "Especiales de Almuerzo",
+        "title": "Lealtad de Almuerzo",
+        "description": "¡Ahorra a la hora del almuerzo!"
+    }
+]
